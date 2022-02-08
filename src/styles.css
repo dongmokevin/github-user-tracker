@@ -1,0 +1,91 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+
+img.user {
+  height: 85px;
+  border-radius: 50%;
+  margin-right: 10px;
+  vertical-align: middle;
+  float: left;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: none;
+}
+
+.input-group {
+  margin: 0 auto;
+}
+
+.bs-callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 4px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 60%;
+}
+
+.bs-callout h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.bs-callout h4, p {
+  font-weight: bold;
+}
+
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+
+.bs-callout-info {
+  border-left-color: #3a73a9;
+}
+
+.bs-callout-info:hover {
+  border-left-color: #173679;
+  color: #173679 !important;
+  box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
+}
+
+.bs-callout-info:hover h4 {
+  color: #173679 !important;
+}
+
+.bs-callout-info:hover p {
+  color: #173679 !important;
+}
+
+.bs-callout-info h4 {
+  color: #3a73a9;
+}
+
+.fas {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.container {
+  padding-top: 30px;
+}
+
+small {
+  display: block;
+  line-height: 1.428571429;
+  color: #999;
+}
+
+.card:hover {
+  box-shadow: 0 1px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
